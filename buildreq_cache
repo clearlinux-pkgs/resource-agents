@@ -1,0 +1,5 @@
+4.4.0
+libxml2-dev
+libxslt-bin
+pkgconfig(systemd)
+systemd-dev

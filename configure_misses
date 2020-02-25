@@ -1,0 +1,16 @@
+Configure miss: heartbeat/glue_config.h usability
+Configure miss: heartbeat/glue_config.h presence
+Configure miss: heartbeat/glue_config.h
+Configure miss: ssh
+Configure miss: scp
+Configure miss: md5
+Configure miss: ping
+Configure miss: ifconfig
+Configure miss: mailx
+Configure miss: mail
+Configure miss: python module: googleapiclient
+Configure miss: python module: pyroute2
+Configure miss: route
+Configure miss: getopt_long in -lgnugetopt
+Configure miss: if libnet is required
+Configure miss: whether gcc supports "-Wunsigned-char"
